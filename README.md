@@ -1,5 +1,5 @@
+![image](https://github.com/Aleksandr62aa/AI_ML_DL/assets/145801941/221ef547-ba49-482c-b3d0-c9a05729d91d)
 
-![image](https://github.com/Aleksandr62aa/AL_ML_DL/assets/145801941/f2497684-b178-474c-bcad-1e67a49062e9)
 
 
 
