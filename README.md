@@ -8,7 +8,7 @@
 2. К-блочная кросс-валидация;
 3. Трансферное обучение.
 
-Examples of using fully connected and convolutional neural networks to solve problems are given.
+## Examples of using fully connected and convolutional neural networks to solve problems.
 An example of solving a real problem on Kaggle is given.
 The implementation of deep learning algorithms was carried out using the PyTorch framework.
 ## To solve problems we used:
