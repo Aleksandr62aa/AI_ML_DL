@@ -2,7 +2,7 @@
 
 ## Примеры использования полносвязанных и сверточных нейронных сетей для решения задач.
 Приведен пример решения реальной задачи на Kaggle.
-Реализация алгоритмов глубокого обучения выполнена с использованием фреймворка PyTorch.
+Реализация алгоритмов глубокого обучения выполнена с использованием фреймворков PyTorch, Tensorflow.
 ## Для решения задач использованы:
 1. Ансамблевые методы повышения точности прогнозирования - бэггинг, градиентный бустинг;
 2. К-блочная кросс-валидация;
@@ -10,7 +10,7 @@
 
 ## Examples of using fully connected and convolutional neural networks to solve problems.
 An example of solving a real problem on Kaggle is given.
-The implementation of deep learning algorithms was carried out using the PyTorch framework.
+The implementation of deep learning algorithms was carried out using the PyTorch, the Tensorflow frameworks.
 ## To solve problems we used:
 1. Ensemble methods for increasing forecasting accuracy - bagging, gradient boosting;
 2. K-block cross-validation;
