@@ -16,8 +16,15 @@
 3. Трансферное обучение.
 
 ## Examples of using fully connected and convolutional neural networks to solve problems of classification, regression and object detection.
+
 An example of solving a real problem on Kaggle is given.
-The implementation of deep learning algorithms was carried out using the PyTorch, the Tensorflow frameworks.
+
+Examples of solving classification and regression problems using FC NN, LeNet5, ResNet models are given.
+
+Examples of solving the problem of object detection using the YOLOv8 model are given.
+
+The implementation of deep learning algorithms was carried out using the PyTorch and Tensorflow frameworks.
+
 ## To solve problems we used:
 1. Ensemble methods for increasing forecasting accuracy - bagging, gradient boosting;
 2. K-block cross-validation;
