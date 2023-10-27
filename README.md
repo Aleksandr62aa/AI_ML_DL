@@ -11,8 +11,8 @@
 Реализация алгоритмов глубокого обучения выполнена с использованием фреймворков PyTorch, Tensorflow.
 
 ## Для решения задач использованы:
-1. Ансамблевые методы повышения точности прогнозирования - бэггинг, градиентный бустинг;
-2. К-блочная кросс-валидация;
+1. Ансамблевые методы повышения точности прогнозирования - бэггинг, градиентный бустинг.
+2. К-блочная кросс-валидация.
 3. Трансферное обучение.
 
 ## Examples of using fully connected and convolutional neural networks to solve problems of classification, regression and object detection.
@@ -26,7 +26,7 @@ Examples of solving the problem of object detection using the YOLOv8 model are g
 The implementation of deep learning algorithms was carried out using the PyTorch and Tensorflow frameworks.
 
 ## To solve problems we used:
-1. Ensemble methods for increasing forecasting accuracy - bagging, gradient boosting;
-2. K-block cross-validation;
+1. Ensemble methods for increasing forecasting accuracy - bagging, gradient boosting.
+2. K-block cross-validation.
 3. Transfer learning.
 
